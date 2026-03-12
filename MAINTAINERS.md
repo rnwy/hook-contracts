@@ -1,6 +1,6 @@
-# MCP Maintainers
+# ERC-8183 Maintainers
 
-This document lists current maintainers in the Model Context Protocol project.
+This document lists current maintainers in the ERC-8183 project.
 
 **Last updated:** March 12, 2026
 
@@ -18,5 +18,5 @@ This document lists current maintainers in the Model Context Protocol project.
 
 ## About This Document
 
-This document is updated by the ERC-8131 maintainers and reflects the current
+This document is updated by the ERC-8183 maintainers and reflects the current
 governance structure.
